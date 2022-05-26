@@ -1,6 +1,6 @@
 """
 
-    Simple Flask-based API for Serving an sklearn Model.
+    Simple Flask-based API for Serving a sklearn Model.
 
     Author: Explore Data Science Academy.
 
