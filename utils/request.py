@@ -36,7 +36,7 @@ feature_vector_json = test.iloc[1].to_json()
 # NOTE: When testing your instance of the API on a remote machine
 # replace the URL below with its public IP:
 
-url = 'http://34.242.41.223:5000/api_v0.1'
+url = 'http://34.243.56.89:5000/api_v0.1'
 # url = 'http://127.0.0.1:5000/api_v0.1'
 
 # Perform the POST request.
